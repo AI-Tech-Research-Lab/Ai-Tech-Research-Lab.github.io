@@ -91,7 +91,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: https://ai-tech-research-lab.github.io
+    siteUrl: https://AI-Tech-Research-Lab.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
