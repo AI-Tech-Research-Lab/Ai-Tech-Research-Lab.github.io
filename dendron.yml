@@ -86,7 +86,7 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    assetsPrefix: /ai-tech-research-lab.github.io
+    assetsPrefix: /
     copyAssets: true
     siteHierarchies:
         - root
